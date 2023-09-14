@@ -37,8 +37,8 @@ The project is meticulously structured into several core stages:
 5. **Report Generation**: Compilation of all findings into a digestible format.
 
 *Each stage is elaborated upon in the accompanying Jupyter Notebooks. The code has been developed and tested in Visual Studio Code using Python 3.11.*
-## Coding Soundtrack
-The coding soundtrack for this week's challenge was Memphis May Fire's album, [Remade in Misery](https://www.youtube.com/playlist?list=PLxA687tYuMWiLo0Us2Iv-nGWjIdCecdM7).
+
+Coding Soundtrack for this week's challenge was Memphis May Fire's album, [Remade in Misery](https://www.youtube.com/playlist?list=PLxA687tYuMWiLo0Us2Iv-nGWjIdCecdM7).
 
 ## Further Reading
 For a more detailed understanding of the model's performance and the methodology used for optimization, please refer to `Model Report.md`.

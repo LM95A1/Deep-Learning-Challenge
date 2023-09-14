@@ -36,11 +36,11 @@ The project is meticulously structured into several core stages:
 4. **Final Model Evaluation**: Detailed assessment of the final optimized model, including metrics like accuracy and loss.
 5. **Report Generation**: Compilation of all findings into a digestible format.
 
+## Further Reading
+For a more detailed understanding of the model's performance and the methodology used for optimization, please refer to `Model Report.md`.
+
 *Each stage is elaborated upon in the accompanying Jupyter Notebooks. The code has been developed and tested in Visual Studio Code using Python 3.11.*
 
 Coding Soundtrack for this week's challenge was Memphis May Fire's album, [Remade in Misery](https://www.youtube.com/playlist?list=PLxA687tYuMWiLo0Us2Iv-nGWjIdCecdM7).
-
-## Further Reading
-For a more detailed understanding of the model's performance and the methodology used for optimization, please refer to `Model Report.md`.
 
 *-LM95A1*
